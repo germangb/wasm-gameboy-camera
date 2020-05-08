@@ -1,10 +1,9 @@
 # WASM-gameboy-camera
 
 - https://germangb.github.io/wasm-gameboy-camera/
+- (Built with) https://github.com/germangb/rust-gameboy
 
 Web-based Game Boy camera (Nintendo please don't sue me)
-
-Built with https://github.com/germangb/rust-gameboy
 
 ## Controls
 
